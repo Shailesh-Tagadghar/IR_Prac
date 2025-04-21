@@ -1,5 +1,6 @@
 // Practical 1 :  Implementation of Basic Document IR System Using Inverted Index in Python
 
+
 from collections import defaultdict
 import numpy as np
 
