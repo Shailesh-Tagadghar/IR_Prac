@@ -1,4 +1,4 @@
-Practical 3 : Spelling Collection in IR using levenshtein_distance
+// Practical 3 : Spelling Collection in IR using levenshtein_distance
 
 from collections import defaultdict
 import numpy as np
